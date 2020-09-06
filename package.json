@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/assert": "^1.5.2",
+    "@types/mocha": "^8.0.3",
     "express": "^4.17.1",
     "mocha": "^8.1.3",
     "source-map-loader": "^1.1.0",

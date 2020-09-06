@@ -6,4 +6,5 @@
 - tsのコンパイルタスクはvscodeのコマンドパレットからほぼできる
 - TSlint
   - 拡張機能TSLintと、npmのtslintをインストールする
-
+- Mocha Test Explorer
+  - Mochaをvscode上で実行するための拡張機能
