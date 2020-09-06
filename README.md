@@ -3,9 +3,12 @@
 ## メモ
 
 - `npm install --save hoge`はpackage.jsonのdependenciesに追加される
-- tsのコンパイルタスクはvscodeの
-コマンドパレットからほぼできる
+- tsのコンパイルタスクはvscodeのコマンドパレットかできる
 - TSlint
   - 拡張機能TSLintと、npmのtslintをインストールする
 - Mocha Test Explorer
   - Mochaをvscode上で実行するための拡張機能
+  - テストファイル上からテスト、デバッグを実行できる
+- webpackのビルドなども、vscodeのタスクとして実行できる
+  - lintやnuxtのビルドとかもタスクとして実行できそう
+- Docコメントかなり便利
