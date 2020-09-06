@@ -43,4 +43,3 @@ export class Repository {
     return this.tasks.filter((task) => !task.done)
   }
 }
-

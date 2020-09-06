@@ -1,6 +1,6 @@
-import { ITask } from 'src/model/task';
+import { ITask } from 'src/model/task/task';
 import { describe, Suite, it } from 'mocha'
-import { Repository } from 'src/model/repository';
+import { Repository } from 'src/model/task/repository';
 import assert from "assert";
 
 describe("Task repository", () => {
